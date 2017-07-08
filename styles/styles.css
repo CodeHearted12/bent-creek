@@ -17,133 +17,151 @@ header h1 {
 
 h2
 {
-text-align: center;
-margin-top: 0px;
-position: relative;
-bottom: 27px;
-font-family: 'Merriweather', serif;
-font-weight: 200;
+  text-align: center;
+  margin-top: 0px;
+  position: relative;
+  bottom: 27px;
+  font-family: 'Merriweather', serif;
+  font-weight: 200;
 }
 
-nav {
+nav
+{
   background-color: white;
   display: flex;
   text-align: center;
   height: 40px;
 }
 
-.bar {
+.bar
+{
   position: relative;
-  left:355px;
-display: flex;
-justify-content: center;
-flex-direction: row;
+  left:460px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
 }
 
-.a{
+.a
+{
   margin:10px;
 }
 
-nav img{
+nav img
+{
   width: 30px;
   height: 30px;
   padding: 5px 10px;
 }
 
-.one{
+.one
+{
   padding: 5px;
   width:550px;
   height:300px;
 }
-.two{
+.two
+{
   padding: 5px;
   width:200px;
   height:300px;
 }
-.three{
+.three
+{
   padding: 5px;
   width:150px;
   height:300px;
 }
-.four{
+.four
+{
   padding: 5px;
   width:200px;
   height:150px;
 }
-.five{
+.five
+{
   padding: 5px;
   width:180px;
   height:150px;
 }
-.six{
+.six
+{
   padding: 5px;
   width:310px;
   height:150px;
 }
-.seven{
+.seven
+{
   padding: 5px;
   width:200px;
   height:150px;
 }
 
-.box {
+.box
+{
 display: flex;
 justify-content: center;
 
 }
 
-.box1 {
+.box1
+{
 display: flex;
 justify-content: center;
 }
 
-footer{
+footer
+{
   display: flex;
   padding: 20px;
   height: 30px;
   color: white;
-  background-color: #967343;
+  background-color: #434738;
 }
 
 
-.name {
+.name
+{
     align-items: flex-end;
     position: absolute;
     display: flex;
     width: 150px;
     padding: 5px;
-    right: 832px;
+    right: 940px;
     color: white;
     top: 463px;
-    background-color: brown;
+    background-color: #434738;
 }
 
 
-.name1 {
+.name1
+{
     align-items: flex-end;
     position: absolute;
     display: flex;
     width: 30px;
     padding: 5px;
-    left: 633px;
+    left: 740px;
     top: 464px;
     color: white;
-    background-color: brown;
+    background-color: #434738;
 }
 
-  .name2 {
+  .name2
+  {
     align-items: flex-end;
     position: absolute;
     display: flex;
     width: 56px;
     padding: 5px;
-    left: 843px;
+    left: 950px;
     top: 463px;
     color: white;
-    background-color: brown;
+    background-color: #434738;
 }
 
-.name4 {
+.name4
+{
     align-items: flex-end;
     position: absolute;
     display: flex;
@@ -151,13 +169,14 @@ footer{
     justify-content: center;
     display: flex;
     padding: 5px;
-    left: 73px;
+    left: 180px;
     top: 625px;
     color: white;
-    background-color: brown;
+    background-color: #434738;
 }
 
-.name5 {
+.name5
+{
     align-items: flex-end;
     position: absolute;
     display: flex;
@@ -165,13 +184,14 @@ footer{
     justify-content: center;
     display: flex;
     padding: 5px;
-    left: 283px;
+    left: 390px;
     top: 625px;
     color: white;
-    background-color: brown;
+    background-color: #434738;
 }
 
-.name6 {
+.name6
+{
     align-items: flex-end;
     position: absolute;
     display: flex;
@@ -179,13 +199,14 @@ footer{
     justify-content: center;
     display: flex;
     padding: 5px;
-    left: 473px;
+    left: 580px;
     top: 625px;
     color: white;
-    background-color: brown;
+    background-color: #434738;
 }
 
-.name7 {
+.name7
+{
     align-items: flex-end;
     position: absolute;
     display: flex;
@@ -193,8 +214,8 @@ footer{
     justify-content: center;
     display: flex;
     padding: 5px;
-    left: 793px;
+    left: 900px;
     top: 625px;
     color: white;
-    background-color: brown;
+    background-color: #434738;
 }
